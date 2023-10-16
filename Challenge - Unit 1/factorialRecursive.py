@@ -11,7 +11,7 @@ while(True):
     if(Num<=-1):
         break;
     print("Factorial of",Num,"is",factorial(Num))
-    print("Enter -1 to exit")
+    print("Enter -1 to exit\n")
 
-print("Sayonera") 
+print("\nSAYONERA")
 
