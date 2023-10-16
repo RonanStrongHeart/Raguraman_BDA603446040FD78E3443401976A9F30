@@ -8,7 +8,7 @@ print('FACTORIAL OF NUMBERS')
 
 while(True):
     Num = int(input("Enter the number to find the factorial: "))
-    if(Num==-1):
+    if(Num<=-1):
         break;
     print("Factorial of",Num,"is",factorial(Num))
     print("Enter -1 to exit")
